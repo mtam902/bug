@@ -660,6 +660,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "0f4c98d7-398f-4312-b5e4-7c4307afdfd5",
+            "title": "TEST",
+            "icon": "sicon-store",
+            "path": "TEST",
+            "fields": []
         }
     ],
     "support_url": null,
