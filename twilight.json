@@ -6,7 +6,6 @@
     "repository": "https://github.com/Nightmre/bugbounty",
     "author_email": "ibrahim7offical@gmail.com",
     "features": [
-        "mega-menu",
         "fonts",
         "color",
         "breadcrumb",
@@ -20,7 +19,8 @@
         "component-testimonials",
         "component-square-photos",
         "component-store-features",
-        "component-youtube"
+        "component-youtube",
+        "mega-menu"
     ],
     "settings": [
         {
