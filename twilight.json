@@ -474,6 +474,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "611dfba4-6d8d-4140-bd5b-9a62cae4f122",
+            "title": "1234",
+            "icon": "{{4*44}\" hello=hello",
+            "path": "TESTTESTss",
+            "fields": []
         }
     ],
     "support_url": null,
