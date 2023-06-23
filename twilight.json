@@ -481,6 +481,13 @@
             "icon": "{{4*44}\" hello=hello",
             "path": "TESTTESTss",
             "fields": []
+        },
+        {
+            "key": "1219eb9b-d5e2-43ee-a756-9f00555a56d8",
+            "title": "1234",
+            "icon": "{{4*44}\" hello=hello",
+            "path": "TESTTESTss1s2",
+            "fields": []
         }
     ],
     "support_url": null,
