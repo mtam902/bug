@@ -667,6 +667,13 @@
             "icon": "sicon-store",
             "path": "TEST",
             "fields": []
+        },
+        {
+            "key": "36ef9e1c-ea64-407a-9e1c-7c134e5e6885",
+            "title": "1234",
+            "icon": "sicon-store",
+            "path": "12344",
+            "fields": []
         }
     ],
     "support_url": null,
