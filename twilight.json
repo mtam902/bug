@@ -166,7 +166,8 @@
                     "type": "static",
                     "format": "description",
                     "id": "static-desc",
-                    "value": "<div style='padding-top:10px;margin-bottom:30px;border:1px solid #ebebeb;border-radius:5px;text-align:center;overflow:hidden'><h6 style='margin-bottom:10px'>معاينة العنصر</h6><img src='https://cdn.salla.network/images/themes/raed/main-slider.jpg?v=1.1'></div>"
+                    "value": "<div ><h6 >معاينة العنصر</h6><img src='https://cdn.salla.network/images/themes/raed/main-slider.jpg?v=1.1'></div>",
+                    "key": "51fe67af-9e39-4c75-a5be-e27dc41a2189"
                 },
                 {
                     "id": "slides",
@@ -175,7 +176,7 @@
                     "required": true,
                     "minLength": 1,
                     "maxLength": 10,
-                    "label": "",
+                    "label": null,
                     "item_label": "صورة",
                     "value": [],
                     "fields": [
@@ -187,8 +188,9 @@
                             "label": "صورة البنر",
                             "format": "image",
                             "required": true,
-                            "placeholder": "",
-                            "description": "* المقاس المناسب للصورة هو 900×600 بكسل"
+                            "placeholder": null,
+                            "description": "* المقاس المناسب للصورة هو 900×600 {{4*4}}",
+                            "key": "3749a4a9-3e1a-4640-a31a-b950700e7e8b"
                         },
                         {
                             "type": "string",
@@ -203,7 +205,8 @@
                             "placeholder": "يمكنك إضافة عنوان بارز هنا...",
                             "hide": false,
                             "minLength": 0,
-                            "maxLength": 100
+                            "maxLength": 100,
+                            "key": "66ce24e7-58fa-4015-9ca5-9f04ecd0ac7f"
                         },
                         {
                             "type": "string",
@@ -217,9 +220,11 @@
                             "required": false,
                             "placeholder": "يمكنك إضافة تفاصيل إضافية هنا",
                             "minLength": 0,
-                            "maxLength": 255
+                            "maxLength": 255,
+                            "key": "0bfb8499-8786-4536-bc44-f1fc5b1aa337"
                         }
-                    ]
+                    ],
+                    "key": "8f7a79c1-b0b0-4080-ad11-355a8d1b5d30"
                 }
             ]
         },
