@@ -166,7 +166,8 @@
                     "type": "static",
                     "format": "description",
                     "id": "with-bg",
-                    "value": "<div style='padding-top:10px;margin-bottom:30px;border:1px solid #ebebeb;border-radius:5px;text-align:center;overflow:hidden'><h6 style='margin-bottom:10px'>معاينة العنصر</h6><img src='https://cdn.salla.network/images/themes/raed/brands.jpg?v=1.1'></div>"
+                    "value": "<div ><h6 >معاينة العنصر</h6><img src='https://cdn.salla.network/images/themes/raed/brands.jpg?v=1.1'></div>",
+                    "key": "6d76140a-18e7-435b-8bcb-6030aeae41fe"
                 },
                 {
                     "type": "string",
@@ -176,14 +177,15 @@
                     "id": "title",
                     "required": false,
                     "format": "text",
-                    "description": "",
+                    "description": null,
                     "placeholder": "أدخل العنوان هنا...",
                     "minLength": 0,
                     "maxLength": 200,
                     "value": {
                         "ar": "تصفح من خلال العلامات التجارية",
                         "en": "Browse All Brands"
-                    }
+                    },
+                    "key": "af6b2eb8-3c2c-4862-87b2-2190e821657d"
                 },
                 {
                     "type": "items",
@@ -191,13 +193,14 @@
                     "label": "الماركات التجارية",
                     "id": "brands",
                     "format": "dropdown-list",
-                    "description": "",
+                    "description": null,
                     "selected": [],
                     "options": [],
                     "required": true,
                     "multichoice": true,
                     "searchable": true,
-                    "source": "brands"
+                    "source": "brands",
+                    "key": "76ec2cbe-4a22-47a5-907c-320af9759ec5"
                 }
             ]
         },
